@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on ...web projects.
 - 📫 How to reach me ...:
 - email: hadjerlais77@gmail.com
--email: h.laissaoui@esi-sba.dz
+-email: kh_laissaoui@esi.dz
 
 

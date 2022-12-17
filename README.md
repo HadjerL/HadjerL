@@ -1,13 +1,13 @@
 <div align="center">
 
-![Dark Logo](./images/Dark-Logo.png#gh-dark-mode-only)
+![Dark Logo](images/Dark-Logo.png#gh-dark-mode-only)
 
 </div>
 
 
 <div align="center">
 
-![Alt text](./images/Logo.png.#gh-light-mode-only)
+![Alt text](images/Logo.png#gh-light-mode-only)
 
 </div>
 

@@ -173,6 +173,13 @@ I'm open to internships, collaborations and interesting projects. If you're buil
 <br/>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=HadjerL&label=Profile+Views&style=for-the-badge&labelColor=555555&color=0088A0">
+  <img src="https://komarev.com/ghpvc/?username=HadjerL&label=Profile+Views&style=for-the-badge&labelColor=555555&color=F05070" alt="Profile views counter">
+</picture>
+
+<br/>
+
+<picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/footer-dark.svg">
     <img src="images/footer-light.svg" alt="footer" width="100%">
   </picture>

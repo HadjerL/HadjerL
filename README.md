@@ -62,52 +62,10 @@ I'm a software engineer turning into an AI engineer. I like building **clean, sc
 ## 🧰 Tech Stack
 
 <div align="center">
-
-**AI & Data**
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark">
-    <img src="https://skillicons.dev/icons?i=python&theme=light" alt="AI and data skills">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/stack-dark.svg">
+    <img src="images/stack-light.svg" alt="Tech stack: Python, Deep Learning, React, TypeScript, Next.js, Spring Boot, Node.js, PostgreSQL, MySQL, Docker and more" width="100%">
   </picture>
-
-`Deep Learning (CNN · LSTM · RNN)` `Time Series Forecasting` `Anomaly Detection` `Edge AI (Jetson Nano)`
-
-<br/>
-
-**Frontend**
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,figma&theme=dark">
-    <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,figma&theme=light" alt="Frontend skills">
-  </picture>
-
-<br/>
-
-**Backend**
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,django,php&theme=dark">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,django,php&theme=light" alt="Backend skills">
-  </picture>
-
-<br/>
-
-**Databases**
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=dark">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=light" alt="Database skills">
-  </picture>
-
-<br/>
-
-**Tools & DevOps**
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,postman,eslint,arduino&theme=dark">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,postman,eslint,arduino&theme=light" alt="Tools">
-  </picture>
-
 </div>
 
 ---

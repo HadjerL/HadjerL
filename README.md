@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="images/banner.svg" alt="Hadjer Laissaoui banner" width="100%" />
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/banner-dark.svg">
+    <img src="images/banner-light.svg" alt="Hadjer Laissaoui banner" width="100%">
+  </picture>
 
 <!-- Theme-Adaptive Logos -->
 <picture>
@@ -13,14 +16,32 @@
 <br/>
 
 <a href="https://github.com/HadjerL">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=640&lines=Software+Engineer+%C3%97+AI+Engineer;Building+scalable+web+platforms;Deep+learning+on+the+edge+%F0%9F%A4%96;M2+AI+student+%40+UPEC" alt="Typing animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&center=true&vCenter=true&width=640&lines=Software+Engineer+%C3%97+AI+Engineer;Building+scalable+web+platforms;Deep+learning+on+the+edge+%F0%9F%A4%96;M2+AI+student+%40+UPEC&color=2DB5D0">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&center=true&vCenter=true&width=640&lines=Software+Engineer+%C3%97+AI+Engineer;Building+scalable+web+platforms;Deep+learning+on+the+edge+%F0%9F%A4%96;M2+AI+student+%40+UPEC&color=F05070" alt="Typing animation">
+  </picture>
 </a>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hadjer%20Laissaoui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadjer-laissaoui-13a420255/)
-[![Medium](https://img.shields.io/badge/Medium-@hadjerlais77-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hadjerlais77)
-[![Email](https://img.shields.io/badge/Email-kh__laissaoui@esi.dz-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kh_laissaoui@esi.dz)
+<a href="https://www.linkedin.com/in/hadjer-laissaoui-13a420255/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-Hadjer%20Laissaoui-0088A0?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Hadjer%20Laissaoui-F05070?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </picture>
+</a>
+<a href="https://medium.com/@hadjerlais77">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Medium-@hadjerlais77-0088A0?style=for-the-badge&logo=medium&logoColor=white">
+    <img src="https://img.shields.io/badge/Medium-@hadjerlais77-F05070?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </picture>
+</a>
+<a href="mailto:kh_laissaoui@esi.dz">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-kh__laissaoui@esi.dz-0088A0?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-kh__laissaoui@esi.dz-F05070?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </picture>
+</a>
 
 </div>
 
@@ -44,7 +65,10 @@ I'm a software engineer turning into an AI engineer. I like building **clean, sc
 
 **AI & Data**
 
-<img src="https://skillicons.dev/icons?i=python" alt="AI and data skills"/>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark">
+    <img src="https://skillicons.dev/icons?i=python&theme=light" alt="AI and data skills">
+  </picture>
 
 `Deep Learning (CNN · LSTM · RNN)` `Time Series Forecasting` `Anomaly Detection` `Edge AI (Jetson Nano)`
 
@@ -52,25 +76,37 @@ I'm a software engineer turning into an AI engineer. I like building **clean, sc
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,figma" alt="Frontend skills"/>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,figma&theme=dark">
+    <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,figma&theme=light" alt="Frontend skills">
+  </picture>
 
 <br/>
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,django,php" alt="Backend skills"/>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,django,php&theme=dark">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,django,php&theme=light" alt="Backend skills">
+  </picture>
 
 <br/>
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" alt="Database skills"/>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=dark">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=light" alt="Database skills">
+  </picture>
 
 <br/>
 
 **Tools & DevOps**
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,postman,eslint,arduino" alt="Tools"/>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,postman,eslint,arduino&theme=dark">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,postman,eslint,arduino&theme=light" alt="Tools">
+  </picture>
 
 </div>
 
@@ -135,16 +171,28 @@ I'm a software engineer turning into an AI engineer. I like building **clean, sc
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HadjerL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadjerL&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HadjerL&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=2DB5D0&icon_color=2DB5D0&text_color=c9d1d9">
+    <img src="https://github-readme-stats.vercel.app/api?username=HadjerL&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=F05070&icon_color=F05070&text_color=434d58" alt="GitHub stats" height="170">
+  </picture>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HadjerL&layout=compact&theme=transparent&hide_border=true&title_color=2DB5D0&text_color=c9d1d9">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadjerL&layout=compact&theme=transparent&hide_border=true&title_color=F05070&text_color=434d58" alt="Top languages" height="170">
+  </picture>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=HadjerL&theme=tokyonight&hide_border=true" alt="Streak stats"/>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=HadjerL&theme=transparent&hide_border=true&ring=2DB5D0&fire=2DB5D0&currStreakLabel=2DB5D0&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e">
+    <img src="https://streak-stats.demolab.com?user=HadjerL&theme=transparent&hide_border=true&ring=F05070&fire=F05070&currStreakLabel=F05070&currStreakNum=434d58&sideNums=434d58&sideLabels=434d58&dates=6a737d" alt="Streak stats">
+  </picture>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HadjerL&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="100%"/>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HadjerL&hide_border=true&bg_color=0D1117&color=2DB5D0&line=2DB5D0&point=FFFFFF&area=true&area_color=2DB5D0&title_color=2DB5D0">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HadjerL&hide_border=true&bg_color=FFFFFF&color=F05070&line=F05070&point=434d58&area=true&area_color=F05070&title_color=F05070" alt="Contribution graph" width="100%">
+  </picture>
 
 </div>
 
@@ -166,6 +214,9 @@ I'm open to internships, collaborations and interesting projects. If you're buil
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:004F90&height=110&section=footer" alt="footer" width="100%"/>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/footer-dark.svg">
+    <img src="images/footer-light.svg" alt="footer" width="100%">
+  </picture>
 
 </div>

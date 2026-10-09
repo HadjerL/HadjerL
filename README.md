@@ -114,6 +114,7 @@ I'm a software engineer turning into an AI engineer. I like building **clean, sc
     <td width="50%" valign="top">
       <h3>🔌 QubeLink: IoT Smart Socket</h3>
       Remote-controlled socket over MQTT: ESP8266 + relay + AC–DC converter, custom circuit, 3D-printed enclosure, Arduino firmware and a React Native control app.<br/><br/>
+      👉 <a href="https://github.com/HadjerL/sci-smart-switch">View the code</a><br/><br/>
       <img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat&logo=espressif&logoColor=white" alt="ESP8266"/>
       <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white" alt="MQTT"/>
       <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native"/>

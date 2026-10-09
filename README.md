@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004F90,100:00B4D8&height=220&section=header&text=Hadjer+Laissaoui&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI+%26+Full-Stack+Engineer&descSize=20&descAlignY=58" alt="Hadjer Laissaoui banner" width="100%" />
+<img src="images/banner.svg" alt="Hadjer Laissaoui banner" width="100%" />
 
 <!-- Theme-Adaptive Logos -->
 <picture>

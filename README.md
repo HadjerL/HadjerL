@@ -13,7 +13,7 @@
 <br/>
 
 <a href="https://github.com/HadjerL">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=640&lines=Software+Engineer+%C3%97+AI+Engineer;Building+scalable+web+platforms;Deep+learning+on+the+edge+%F0%9F%A4%96;M2+AI+student+%40+UPEC+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=640&lines=Software+Engineer+%C3%97+AI+Engineer;Building+scalable+web+platforms;Deep+learning+on+the+edge+%F0%9F%A4%96;M2+AI+student+%40+UPEC" alt="Typing animation" />
 </a>
 
 <br/><br/>
@@ -30,7 +30,7 @@
 
 I'm a software engineer turning into an AI engineer. I like building **clean, scalable applications** and getting machine learning models out of notebooks and into real products.
 
-- 🎓 Engineer from **ESI Algiers**, now in **Master 2 AI (IA2S)** at **Université Paris-Est Créteil** 🇫🇷
+- 🎓 Engineer from **ESI Algiers**, now in **Master 2 AI (IA2S)** at **Université Paris-Est Créteil**
 - 🏗️ Building a **national library platform** (82k readers, 9k+ books) with **Spring Boot + React**
 - 🔭 Looking for a **6-month AI / ML / Data Science internship starting March 2027** in France
 - ✍️ I write about what I learn on [Medium](https://medium.com/@hadjerlais77)

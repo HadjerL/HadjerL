@@ -31,7 +31,7 @@
   </picture>
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/hadjer-laissaoui-13a420255/">
   <picture>

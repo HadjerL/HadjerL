@@ -24,6 +24,15 @@
 
 <br/><br/>
 
+<a href="https://hadjerl.github.io/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-hadjerl.github.io-0088A0?style=for-the-badge&logo=githubpages&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-hadjerl.github.io-F05070?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+  </picture>
+</a>
+
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/hadjer-laissaoui-13a420255/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-Hadjer%20Laissaoui-0088A0?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -54,6 +63,7 @@ I'm a software engineer turning into an AI engineer. I like building **clean, sc
 - 🎓 Engineer from **ESI Algiers**, now in **Master 2 AI (IA2S)** at **Université Paris-Est Créteil**
 - 🏗️ Building a **national library platform** (82k readers, 9k+ books) with **Spring Boot + React**
 - 🔭 Looking for a **6-month AI / ML / Data Science internship starting March 2027** in France
+- 🌐 My portfolio: [hadjerl.github.io](https://hadjerl.github.io/)
 - ✍️ I write about what I learn on [Medium](https://medium.com/@hadjerlais77)
 - 🌍 Arabic · French · English
 
@@ -168,7 +178,7 @@ I'm open to internships, collaborations and interesting projects. If you're buil
 
 <div align="center">
 
-📫 [kh_laissaoui@esi.dz](mailto:kh_laissaoui@esi.dz) · 🔗 [LinkedIn](https://www.linkedin.com/in/hadjer-laissaoui-13a420255/) · ✍️ [Medium](https://medium.com/@hadjerlais77)
+🌐 [Portfolio](https://hadjerl.github.io/) . 📫 [kh_laissaoui@esi.dz](mailto:kh_laissaoui@esi.dz) · 🔗 [LinkedIn](https://www.linkedin.com/in/hadjer-laissaoui-13a420255/) · ✍️ [Medium](https://medium.com/@hadjerlais77)
 
 <br/>
 
